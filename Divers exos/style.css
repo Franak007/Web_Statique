@@ -1,0 +1,7 @@
+.lorem {
+    width: 500px;
+    background-color: yellow;
+    border: dotted red 15px;
+    margin: 50px;
+    box-shadow: -15px -10px 7px black;
+}

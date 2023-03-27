@@ -1,0 +1,15 @@
+div {
+    border: solid 1px;
+    width: 100%; 
+}
+.l1 {
+    display: flex;
+    justify-content: space-around;
+}
+.ensemble {
+    display: flex;
+    height: 700px;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+
+}

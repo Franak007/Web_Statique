@@ -1,0 +1,10 @@
+@media screen and (max-width: 680px) {
+    .cv {
+        display: flex; 
+        flex-direction: column; 
+        width: 150px;
+    }
+    
+}
+
+

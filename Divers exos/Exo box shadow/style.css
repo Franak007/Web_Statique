@@ -1,0 +1,52 @@
+.haut {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(152, 152, 252);
+}
+.bas {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color:rgb(152, 152, 252);
+}
+.oiseaux_hg {
+    height: 70px;
+    float:right;
+    padding: 1px;
+}
+.oiseaux_hd {
+    height: 70px;
+    float: left;
+    padding: 1px;
+}
+.oiseaux_bg {
+    height: 70px;
+    float: right;
+    padding: 1px;
+}
+.oiseaux_bd {
+    height: 70px;
+    float: left;
+    padding: 1px;
+}
+.haut_g {
+    height: 345px;
+    text-align: justify;
+    padding: 3px;
+}
+.haut_d {
+    height: 345px;
+    text-align: justify;
+    padding: 3px;
+}
+.bas_g {
+    height: 345px;
+    text-align: justify;
+    padding: 3px;
+}
+.bas_d {
+    height: 345px;
+    text-align: justify;
+    padding: 3px;
+}
